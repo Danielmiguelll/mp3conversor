@@ -1,0 +1,10 @@
+dependencias e bibliotecas necessárias:
+
+node.js
+ytdl-core
+express
+cors
+
+instruções:
+navegue até o diretório do projeto via terminal e 
+inicie o servidor express da seguinte forma: node server.js
